@@ -1,0 +1,133 @@
+id,title,category_id
+1,Upon waking up,2
+2,Supplication when wearing clothes,1
+3,Supplication when wearing new clothes,1
+4,Supplication said to someone wearing new clothes,1
+5,Before Undressing,1
+6,Before entering the toilet,1
+7,After leaving the toilet,1
+8,When starting ablution (wudu'),5
+9,Upon completing ablution (wudu'),5
+10,When leaving home,1
+11,Upon entering home,1
+12,Supplication when going to the masjid,5
+13,Upon entering the masjid,5
+14,Upon leaving the masjid,5
+15,Supplications related to the Athân (call to prayer),5
+16,Supplications at the start of Ŝalâh (prayer),5
+17,While bowing in Ŝalâh (Rukû'),5
+18,Upon rising from Rukû' (bowing position in Ŝalâh),5
+19,Supplications while in Sujûd (prostration in Ŝalâh),5
+20,Supplications between sajdatain (two prostrations),5
+21,Supplication for Sajdah (prostration) due to recitation of Qur'an,5
+22,Dua of Tashahhud,5
+23,Dua for the Prophet (salla Allaahu ʻalayhi wa salaam) after the Tashahhud,5
+24,Supplication to be said after the last Tashahhud and before the Taslîm,5
+25,Remembrance after the Taslîm,5
+26,"Supplication for seeking guidance in forming a decision or choosing the proper course, etc..(Al-'Istikhârah)",7
+27,Remembrance said in the morning and evening,2
+28,Remembrance before sleeping,2
+29,Supplication when turning over during the night,2
+30,"Upon experiencing unrest, fear, apprehensiveness and the like during sleep",2
+31,Upon seeing a bad dream,2
+32,Du'â Qunût Al-Witr ,5
+33,Remembrance immediately after the Taslîm of the Witr Ŝalâh,5
+34,Supplication for anxiety and sorrow,6
+35,Supplication for one in distress,6
+36,Upon encountering an enemy or those of authority,7
+37,For fear of the opression of rulers,7
+38,Against enemies,7
+39,When afraid of a group people,7
+40,Supplication for one afflicted with doubt in his faith,7
+41,Settling a debt,1
+42,Supplication for one afflicted by whisperings in prayer or recitation,7
+43,Supplication for one whose affairs have become difficult,6
+44,Upon committing a sin,7
+45,Supplications for expelling the devil and his whisperings,7
+46,Supplication when stricken with a mishap or overtaken by an affair,6
+47,Congratulations on the occasion of a birth,3
+48,Placing children under Allah's protection,3
+49,When visiting the sick,8
+50,Excellence of visiting the sick,8
+51,Supplication of the sick who have renounced all hope of life,8
+52,Instruction for the one nearing death,8
+53,Supplication for one afflicted by a calamity,6
+54,When closing the eyes of the deceased,8
+55,Supplication for the deceased at the funeral prayer,8
+56,Supplication for the deceased child at the funeral prayer,8
+57,Condolence,8
+58,Placing the deceased in the grave,8
+59,After burying the deceased,8
+60,Visiting the graves,8
+61,Prayer said during a wind storm,1
+62,Supplication upon hearing thunder,1
+63,Supplication for rain,1
+64,Supplication when it is raining,1
+65,Supplication after rain,1
+66,Asking for clear skies,1
+67,Upon sighting the crescent moon,4
+68,Upon breaking fast,4
+69,Supplication before eating,4
+70,Upon completion of a meal,4
+71,Supplication of the guest for the host,3
+72,Supplication said to one offering a drink or to one who intended to do that,3
+73,Supplication said when breaking fast in someone's home,4
+74,Supplication said by one fasting when presented with food and does not break his fast,4
+75,If insulted while fasting,4
+76,Supplication said upon seeing the early or premature fruit,1
+77,Supplication said upon sneezing,3
+78,What to say to a kâfir who praises Allah after sneezing,3
+79,Supplication said to the newly wed,3
+80,The groom's supplication on the wedding night or when buying an animal,3
+81,Supplication before sexual intercourse,3
+82,When angry,6
+83,Supplication said upon seeing someone in trial or tribulation,6
+84,"Remembrance said at a sitting or gathering, etc...",3
+85,"Supplication for the expiation of sins said at the conclusion of a sitting or gathering, etc...",3
+86,Replying to a supplication of forgiveness,3
+87,Supplication said to one who does you a favor,3
+88,Protection from the Dajjâl,7
+89,"Supplication said to one who pronounces his love for you, for Allah's sake",3
+90,Supplication said to one who has offered you some of his wealth,3
+91,Supplication said to the debtor when his debt is settled,1
+92,Supplication for fear of Shirk,7
+93,Returning a supplication after having bestowed a gift or charity upon someone,3
+94,Forbiddance of ascribing things to omens,7
+95,Supplication said when mounting an animal or any means of transport,1
+96,Supplication for travel,1
+97,"Supplication upon entering a town or village, etc...",1
+98,When entering the market,1
+99,Supplication for when the mounted animal (or means of transport) stumbles,1
+100,Supplication of the traveller for the resident,1
+101,Supplication of the resident for the traveller,1
+102,Remembrance while ascending or descending,2
+103,Prayer of the traveller as dawn approaches,1
+104,Stopping or lodging somewhere,1
+105,While returning from travel,1
+106,Supplication after receiving good or bad news,6
+107,Excellence of sending prayers upon the Prophet (May Allah send blessings and peace upon him),2
+108,Excellence of spreading the Islamic greeting,3
+109,How to reply to the Salâm of a Kâfir,3
+110,Supplication after hearing a rooster crow or a donkey bray,1
+111,Supplication upon hearing the barking of dogs at night,2
+112,Supplication said for one you have insulted,6
+113,The etiquette of praising a fellow Muslim,3
+114,For the one that has been praised,3
+115,The Talbiyah for the one doing Ĥajj or 'Umra,4
+116,The Takbîr passing the black stone,4
+117,Between the Yemeni corner and the black stone,4
+118,When at Mount Ŝaffâ and Mount Marwah,4
+119,On the Day of 'Arafah,4
+120,At the Sacred Site (Al-Mash'ar Al-Harâm),4
+121,Supplication for throwing a pebble at the Jamarât,4
+122,What to say at times of amazement and delight,6
+123,What to do upon receiving pleasant news,6
+124,What to say and do when feeling some pain in the body,8
+125,What to say when in fear of afflicting something or someone with one's eye,7
+126,What to say when startled,6
+127,When slaughtering or offering a sacrifice,4
+128,What is said to ward off the deception of the Obstinate Shaytaans,7
+129,Seeking forgiveness and repentance,7
+130,"Excellence of At-Tasbîĥ, At-Taĥmîd, At-Tahlîl and At-Takbîr",2
+131,How the Prophet (salla Allaahu ʻalayhi wa salaam) made tasbîĥ?,2
+132,General and beneficent rules,2
